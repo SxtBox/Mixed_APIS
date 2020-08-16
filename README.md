@@ -26,3 +26,10 @@
     JSON API GET BY ID OR BY URL
     M3U GENERATOR BY ID OR BY URL
     RAW DATA BY ID OR BY URL
+    
+    vudeo.net
+     JSON API GET BY URL
+     Embed Links
+     Main Links
+     Smart TV/VLC [Need Account]
+    
