@@ -6,6 +6,10 @@
     Automatic Source Playing Without type="video/mp4 or Another Tags"
     Demo Player https://paidcodes.albdroid.al/Vudeo_Dot_Net_Apis/Flexible_Player_Ultra
     Player Get Source From https://vudeo.net/0cvk1xbb99fq.html You can add ?url= + any vudeo.net video url
+    Link Formats https://vudeo.net/embed-0cvk1xbb99fq.html or https://vudeo.net/0cvk1xbb99fq.html
+    Get Automatic Titles
+    Get Automatic MP4 X2 Link Formats
+    Super Fast Scrapping Data
     Offline Plugins
     Offline Skins (Total 12 Skins)
     Quality Selector if Source is Multi Links
